@@ -56,7 +56,7 @@ class MainWindow(QWidget):
                 self.show()
 
     def __query(self,ip,api, hostname):
-        url = "http://%s/ip/%s?key=%s" % (hostname) % (ip) % (api)
+        url = "http://{}/ip/{}?key={}".format(hostname, ip,api)
         r = requests.get(url)
         if r.status_code == requests.codes.NOT_FOUND:
             QMessageBox.about(self, "Error", "IP not found")
