@@ -7,7 +7,7 @@ app = FastAPI()
 @app.get("/")
 async def read_root():
     return {"Hello": "World"}
-    
+
 @app.get("/ip/{ip}")
 async def get_ip(ip: str, key: Optional[str] = None):
     if key is None:
@@ -16,9 +16,7 @@ async def get_ip(ip: str, key: Optional[str] = None):
         try:
             api = Shodan(key)
             res = api.host(ip)
-            return {
-                res
-            }
+            return "https://www.openstreetmap.org/?mlat={}&mlon={}#map=12".format(res["latitude"],res["longitude"])
         except Exception as e:
             return {"Error": str(e)}
 
