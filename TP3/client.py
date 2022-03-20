@@ -10,6 +10,7 @@ from PyQt5.QtWidgets import (
 from PyQt5.Qt import QUrl, QDesktopServices
 import requests
 import sys
+import webbrowser
 
 
 class MainWindow(QWidget):
@@ -52,6 +53,7 @@ class MainWindow(QWidget):
             res = self.__query(ip,api,hostname)
             if res:
                 self.label2.setText("Answer%s" % (res))
+                webbrowser.open(res, new=2)
                 self.label2.adjustSize()
                 self.show()
 
