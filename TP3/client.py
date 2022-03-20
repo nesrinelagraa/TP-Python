@@ -52,8 +52,9 @@ class MainWindow(QWidget):
         else:
             res = self.__query(ip,api,hostname)
             if res:
+                chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s' #to open the link in Chrome
                 self.label2.setText("Answer%s" % (res))
-                webbrowser.open(res, new=2)
+                webbrowser.get(chrome_path).open(res)
                 self.label2.adjustSize()
                 self.show()
 
