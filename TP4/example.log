@@ -1,0 +1,68 @@
+2022-04-22 15:04:33,369 New event logged.
+2022-04-22 15:04:51,240 New event logged.
+2022-04-22 15:05:01,289 hello
+2022-04-22 15:05:01,574 Hi!
+2022-04-22 15:25:17,219 New event logged.
+2022-04-22 15:25:32,143 New event logged.
+2022-04-22 15:25:43,880 hello
+2022-04-22 15:25:44,104 Hi!
+2022-04-22 15:25:47,026 okay
+2022-04-22 15:26:19,546 New event logged.
+2022-04-22 15:26:32,095 okay
+2022-04-22 15:26:34,590 hello
+2022-04-22 15:26:34,839 Hi!
+2022-04-22 15:27:22,780 New event logged.
+2022-04-22 15:27:30,777 hello
+2022-04-22 15:27:31,002 Hi!
+2022-04-22 15:46:20,150 None has connected to Discord!
+2022-04-22 15:46:35,175 hello
+2022-04-22 15:46:39,841 hi
+2022-04-22 15:47:06,218 None has connected to Discord!
+2022-04-22 15:47:13,985 hello
+2022-04-22 15:47:16,667 hi
+2022-04-22 15:48:04,725 None has connected to Discord!
+2022-04-22 15:48:11,766 hello
+2022-04-22 15:52:09,132 None has connected to Discord!
+2022-04-22 15:52:18,698 hello
+2022-04-22 15:52:18,968 <coroutine object Message.replyMessage at 0x7f0d49ad78c0>
+2022-04-22 15:52:19,174 <coroutine object Message.replyMessage at 0x7f0d48a140c0>
+2022-04-22 15:52:19,491 <coroutine object Message.replyMessage at 0x7f0d489fae40>
+2022-04-22 15:52:19,893 <coroutine object Message.replyMessage at 0x7f0d489fa8c0>
+2022-04-22 15:52:20,301 <coroutine object Message.replyMessage at 0x7f0d48a120c0>
+2022-04-22 15:52:24,344 <coroutine object Message.replyMessage at 0x7f0d49ad7740>
+2022-04-22 15:52:24,976 <coroutine object Message.replyMessage at 0x7f0d48a122c0>
+2022-04-22 15:52:25,222 <coroutine object Message.replyMessage at 0x7f0d489faf40>
+2022-04-22 15:52:25,454 <coroutine object Message.replyMessage at 0x7f0d48a12040>
+2022-04-22 15:52:25,727 <coroutine object Message.replyMessage at 0x7f0d49ad7940>
+2022-04-22 15:52:29,944 <coroutine object Message.replyMessage at 0x7f0d48a12040>
+2022-04-22 15:52:30,203 <coroutine object Message.replyMessage at 0x7f0d49b0e540>
+2022-04-22 15:52:30,541 <coroutine object Message.replyMessage at 0x7f0d48a18040>
+2022-04-22 15:52:30,846 <coroutine object Message.replyMessage at 0x7f0d49b0e9c0>
+2022-04-22 15:52:31,155 <coroutine object Message.replyMessage at 0x7f0d48a12040>
+2022-04-22 15:52:34,946 <coroutine object Message.replyMessage at 0x7f0d49b0e540>
+2022-04-22 16:14:12,755 None has connected to Discord!
+2022-04-22 16:15:56,967 None has connected to Discord!
+2022-04-22 16:16:05,371 Nesrine said hello
+2022-04-22 16:16:05,700 bot_tp_ing said Hi!
+2022-04-22 16:22:27,921 None has connected to Discord!
+2022-04-22 16:23:02,816 None has connected to Discord!
+2022-04-22 16:23:31,888 None has connected to Discord!
+2022-04-22 16:24:35,005 None has connected to Discord!
+2022-04-22 16:39:59,849 None has connected to Discord!
+2022-04-22 16:40:10,211 Nesrine said hi
+2022-04-22 16:40:12,516 Nesrine said hello
+2022-04-22 16:42:02,685 None has connected to Discord!
+2022-04-22 16:42:13,368 Nesrine said okay
+2022-04-22 16:42:15,829 Nesrine said hi
+2022-04-22 16:55:22,785 None has connected to Discord!
+2022-04-22 16:55:45,785 Nesrine said okay
+2022-04-22 16:55:46,960 Nesrine said hi
+2022-04-22 16:55:49,167 Nesrine said hello
+2022-04-22 16:57:11,626 None has connected to Discord!
+2022-04-22 16:57:25,432 Nesrine said hello
+2022-04-22 16:57:25,663 bot_tp_ing said <coroutine object Message.replyMessage at 0x7fa897f6d940>
+2022-04-22 16:57:26,744 bot_tp_ing said <coroutine object Message.replyMessage at 0x7fa897f6df40>
+2022-04-22 16:57:27,042 bot_tp_ing said <coroutine object Message.replyMessage at 0x7fa89773c040>
+2022-04-22 16:57:27,357 bot_tp_ing said <coroutine object Message.replyMessage at 0x7fa896e9e040>
+2022-04-22 16:57:27,870 bot_tp_ing said <coroutine object Message.replyMessage at 0x7fa897ff1b40>
+2022-04-22 16:57:31,087 bot_tp_ing said <coroutine object Message.replyMessage at 0x7fa896e9e040>

@@ -10,8 +10,8 @@ with open("config.json","r") as f:
 #Screamhandler, Filehandler
 #for logger we need to create another class and 
 
-logging.basicConfig(format='%(asctime)s %(message)s')
-logging.warning('is when this event was logged.')
+logging.basicConfig(filename='example.log',format='%(asctime)s %(message)s')
+logging.warning('New event logged.')
 '''class MyBot(discord.Customer):
     def __init__(self):
         super().__init__()
@@ -38,7 +38,7 @@ async def on_ready():
 @client.event
 async def on_message(message):
     logging.basicConfig(format='%(asctime)s %(message)s')
-    logging.info(message.content)
+    logging.warning(message.content)
     if('hello' in message.content.lower()):
         await message.channel.send('Hi!')
     ''' print(message.content)
